@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Apa ibukota Indonesia?",
+        "answers": [
+            { "option": "Jakarta", "isCorrect": true },
+            { "option": "Bandung", "isCorrect": false },
+            { "option": "Bengkulu", "isCorrect": false }
+        ]
+    },
+    {
+        "question": "Berapa hasil dari 3 + 2?",
+        "answers": [
+            { "option": "3", "isCorrect": false },
+            { "option": "4", "isCorrect": false },
+            { "option": "5", "isCorrect": true }
+        ]
+    },
+    {
+        "question": "Siapakah presiden pertama Indonesia?",
+        "answers": [
+            { "option": "Soekarno", "isCorrect": true },
+            { "option": "Soeharto", "isCorrect": false },
+            { "option": "Joko Widodo", "isCorrect": false }
+        ]
+    },
+    {
+        "question": "Apa nama ibukota Jepang?",
+        "answers": [
+            { "option": "Tokyo", "isCorrect": true },
+            { "option": "Kyoto", "isCorrect": false },
+            { "option": "Osaka", "isCorrect": false }
+        ]
+    },
+    {
+        "question": "Siapakah penemu teori relativitas?",
+        "answers": [
+            { "option": "Isaac Newton", "isCorrect": false },
+            { "option": "Albert Einstein", "isCorrect": true },
+            { "option": "Galileo Galilei", "isCorrect": false }
+        ]
+    }
+]
